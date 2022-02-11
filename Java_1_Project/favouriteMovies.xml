@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<favouritemovies>
+    <movies>
+        <movie>
+            <id>12</id>
+            <title>Zvezdani psi: Tropska avantura - sinh</title>
+            <originaltitle>Space Dogs: Tropical Adventure</originaltitle>
+            <description>Kada se u tropskim krajevima Atlantskog okeana pojavi misteriozni i opasni vrtložni fenomen, Belka i Strelka, prvi astronauti na povratku iz misije na Saturn, su poslati da istraže ovu čudnu pojavu.
+
+Dok se upuštaju u okeanske dubine, otkrivaju misteriozni NLO koji pokušava da ukrade svu Zemljinu vodu. Uz pomoć svojih dobrih prijatelja, Belka i Strelka još jednom izvršavaju herojsku misiju spasavanja planete i dalekog doma svojih novih vanzemaljskih prijatelja.Početak prikazivanja: 23.9.2021</description>
+            <picturepath>assets\f15e221d-3e14-4f77-9618-1142114aa6b0.jpg</picturepath>
+            <length>80</length>
+            <genre>animirani</genre>
+            <link>https://www.blitz-cinestar.hr/root/zvezdani-psi-tropska-avantura-sinh/7699//1</link>
+            <actors>
+                <actor id="49">
+                    <firstname>Iva</firstname>
+                    <lastname>Ilinčić</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="50">
+                    <firstname>Miljana</firstname>
+                    <lastname>Gavrilović</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="51">
+                    <firstname>Uroš</firstname>
+                    <lastname>Jovčić</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+            </actors>
+            <publisheddate>2021-09-09T01:21:20</publisheddate>
+            <directors>
+                <director id="52">
+                    <firstname>Inna</firstname>
+                    <lastname>Evlannikova</lastname>
+                    <position>true</position>
+                    <movieID>0</movieID>
+                </director>
+            </directors>
+        </movie>
+        <movie>
+            <id>16</id>
+            <title>Za smrt nema vremena 4DX</title>
+            <originaltitle>No Time To Die 4DX</originaltitle>
+            <description>Jedna od najdugovječnijih filmskih franšiza u povijesti filma dobiva nastavak jer se tajni agent James Bond vraća na veliko filmsko platno. Karizmatičnog agenta britanske tajne službe MI6, kodnog naziva 007, portretirat će Daniel Craig, što će mu biti peta uloga tajnog agenta.
+Bond je napustio aktivnu službu no njegova „penzija“ je kratkog vijeka. Dugogodišnji prijatelj iz CIA-e Felix Leiter od njega traži pomoć u borbi protiv misterioznog zločinca naoružanog opasnom novom tehnologijom. 
+Snimanje novog filma odvijalo se na lokacijama u Londonu, Italiji, Jamajci te u Norveškoj. Producenti filma izrazili su svoje zadovoljstvo s činjenicom da se Bond vraća na Jamajku, na mjesto na kojem je Fleming stvorio legendarnog agenta.
+Novi film o Bondu, 25. po redu, režira Cary Joji Fukunaga, scenarij pišu Neal Purvis, Robert Wade, Scott Z. Burns, Phoebe Waller-Bridge i Fukunaga. Pored Craig-a u ponovljenim ulogama vraćaju se i Ralph Fiennes, Naomie Harris, Rory Kinnear, Léa Seydoux, Ben Whishaw i </description>
+            <picturepath>assets\9f43148d-ddde-408c-bc7e-d5d88adbec9f.jpg</picturepath>
+            <length>164</length>
+            <genre>akcija</genre>
+            <link>https://www.blitz-cinestar.hr/root/za-smrt-nema-vremena-4dx/7138//1</link>
+            <actors>
+                <actor id="72">
+                    <firstname>Daniel</firstname>
+                    <lastname>Craig</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="73">
+                    <firstname>Rami</firstname>
+                    <lastname>Malek</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="74">
+                    <firstname>Léa</firstname>
+                    <lastname>Seydoux</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="75">
+                    <firstname>Lashana</firstname>
+                    <lastname>Lynch</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="76">
+                    <firstname>Ben</firstname>
+                    <lastname>Whishaw</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="77">
+                    <firstname>Naomie</firstname>
+                    <lastname>Harris</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="78">
+                    <firstname>Jeffrey</firstname>
+                    <lastname>Wright</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="79">
+                    <firstname>Christoph</firstname>
+                    <lastname>Waltz</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="80">
+                    <firstname>Ralph</firstname>
+                    <lastname>Fiennes</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+            </actors>
+            <publisheddate>2021-09-09T01:21:20</publisheddate>
+            <directors>
+                <director id="81">
+                    <firstname>Cary</firstname>
+                    <lastname>Fukunaga</lastname>
+                    <position>true</position>
+                    <movieID>0</movieID>
+                </director>
+            </directors>
+        </movie>
+        <movie>
+            <id>20</id>
+            <title>Nije vreme za umiranje 3D 4DX</title>
+            <originaltitle>No Time To Die  3D 4DX</originaltitle>
+            <description>U flmu “NIJE VREME ZA UMIRANJE” Bond je napusto službu i uživa u mirnom životu na Jamajci.
+Njegov mir neće trajat dugo, kada se pojavi njegov stari prijatelj iz CIA, Feliks Lajter, moleći ga za pomoć.
+Misija u kojoj je potrebno da izbave kidnapovanog naučnika ispostaviće se mnogo komplikovanija nego
+što je bilo očekivano i navešće Bonda na trag misterioznom zlikovcu koji je naoružan novom, opasnom
+tehnologijom.Početak prikazivanja: 7.10.2021</description>
+            <picturepath>assets\cd772d66-7ceb-4a92-b64c-da9b5990cc33.jpg</picturepath>
+            <length>164</length>
+            <genre>akcioni triler</genre>
+            <link>https://www.blitz-cinestar.hr/root/nije-vreme-za-umiranje-3d-4dx/7031//1</link>
+            <actors>
+                <actor id="106">
+                    <firstname>Daniel</firstname>
+                    <lastname>Craig</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="107">
+                    <firstname>Léa</firstname>
+                    <lastname>Seydoux</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="108">
+                    <firstname>Ana</firstname>
+                    <lastname>Armas</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="109">
+                    <firstname>Rami</firstname>
+                    <lastname>Malek</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="110">
+                    <firstname>Ralph</firstname>
+                    <lastname>Fiennes</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+                <actor id="111">
+                    <firstname>Christoph</firstname>
+                    <lastname>Waltz</lastname>
+                    <position>false</position>
+                    <movieID>0</movieID>
+                </actor>
+            </actors>
+            <publisheddate>2021-09-09T01:21:20</publisheddate>
+            <directors>
+                <director id="112">
+                    <firstname>Cary</firstname>
+                    <lastname>Fukunaga</lastname>
+                    <position>true</position>
+                    <movieID>0</movieID>
+                </director>
+            </directors>
+        </movie>
+    </movies>
+</favouritemovies>
